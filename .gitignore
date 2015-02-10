@@ -4,3 +4,6 @@ LEDEquivalentTest.plt
 DC_DC_Boost.log
 DC_DC_Boost.op.raw
 DC_DC_Boost.raw
+resonanceTest.log
+resonanceTest.op.raw
+resonanceTest.raw
